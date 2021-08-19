@@ -3,7 +3,7 @@
 [![dependency health](https://storage.googleapis.com/gradle_cache_bucket/dependency.svg)](https://storage.googleapis.com/gradle_cache_bucket/dependency.txt)
 [![Open Source Helpers](https://www.codetriage.com/google/ground-android/badges/users.svg)](https://www.codetriage.com/google/ground-android)
 
-Ground is an open-source, map-first data collection and analysis platform built
+aGround is an open-source, map-first data collection and analysis platform built
 to seamlessly connect the offline world with cloud-based storage and
 computation. The platform consists of a web app for data management and an
 Android app for offline data collection. Our goal is to provide a "just right"
